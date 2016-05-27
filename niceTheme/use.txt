@@ -1,0 +1,3 @@
+1.Files>settings>Plugins>install plugin form disk>this.zip
+2.Files>settings>Editor>colors&font
+you will find three new themes,then choose you like
